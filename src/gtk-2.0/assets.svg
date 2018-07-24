@@ -31,11 +31,11 @@
     </linearGradient>
 
     <linearGradient id="color-accent">
-      <stop stop-color="#FFAC00"/>
+      <stop stop-color="#BA617F"/>
     </linearGradient>
 
     <linearGradient id="color-accent-insensitive">
-      <stop stop-color="#FFAC00" stop-opacity="0.5"/>
+      <stop stop-color="#BA617F" stop-opacity="0.5"/>
     </linearGradient>
 
     <linearGradient id="color-bg">

@@ -93,13 +93,13 @@
     <linearGradient
        id="color-accent">
       <stop
-         stop-color="#FFAC00"
+         stop-color="#BA617F"
          id="stop26" />
     </linearGradient>
     <linearGradient
        id="color-accent-insensitive">
       <stop
-         stop-color="#FFAC00"
+         stop-color="#BA617F"
          stop-opacity="0.5"
          id="stop29" />
     </linearGradient>
